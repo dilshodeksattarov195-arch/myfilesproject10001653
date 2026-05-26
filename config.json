@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersalidate",
+        "uuid": 3023337,
+        "checksum": "lixiyc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
